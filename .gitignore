@@ -1,0 +1,8 @@
+# file excluded
+MRPageRank.iml
+
+# folder excluded
+.idea/
+target/
+src/test/
+src/main/resources/
