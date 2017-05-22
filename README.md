@@ -1,0 +1,2 @@
+# PageRank
+<a href="https://www.codecogs.com/eqnedit.php?latex=pageRank&space;=&space;\frac{(&space;1-\alpha&space;)}{|V|}&space;&plus;&space;\alpha&space;*\sum_{L(n)}^{m}(\frac{P(m)}{C(m)}&space;&plus;&space;\frac{SumDN}{|V|}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?pageRank&space;=&space;\frac{(&space;1-\alpha&space;)}{|V|}&space;&plus;&space;\alpha&space;*\sum_{L(n)}^{m}(\frac{P(m)}{C(m)}&space;&plus;&space;\frac{SumDN}{|V|}" title="pageRank = \frac{( 1-\alpha )}{|V|} + \alpha *\sum_{L(n)}^{m}(\frac{P(m)}{C(m)} + \frac{SumDN}{|V|})" /></a>
